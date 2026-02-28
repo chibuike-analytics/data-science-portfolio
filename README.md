@@ -1,28 +1,43 @@
 # Data-science-portfolio
-Data science projects addressing healthcare and business challenges of national importance
+Fall-risk-prediction-human-motion/README.md
+# Fall Risk Prediction in Human Motion Using Machine Learning and Deep Learning
 
-## Purpose of This Repository
-This repository documents my applied work in data science, healthcare analytics,
-and financial analytics. The projects demonstrate how advanced data analytics
-can improve healthcare efficiency, workforce planning, and business decision-making.
-This work supports areas of national importance to the United States.
+## Project Background
+Falls are a major cause of injury, hospitalisation, and mortality,
+particularly among older adults and individuals with mobility impairments.
+Accurate fall risk prediction is critical for improving patient safety
+and reducing healthcare costs.
 
-## About Me
-I am a Data Scientist with an MSc in Data Science from the University of Lincoln (UK).
-My professional background includes healthcare analytics, financial analytics,
-and investment analysis.
+## Objective
+The objective of this project is to apply machine learning and deep learning
+techniques to human motion data in order to predict fall risk and support
+early intervention strategies.
 
-## Areas of Focus
-- Healthcare analytics and workforce optimisation
-- Financial and business data analysis
-- Predictive analytics and data-driven decision-making
+## Data Description
+The project uses image-based and motion-related datasets representing
+human movement patterns. All data used is either publicly available
+or anonymised for academic and research purposes.
 
-## Repository Structure
-Each folder represents a real-world problem, the analytical approach used,
-and the potential impact on healthcare or business systems.
+## Methodology
+- Image and motion data preprocessing
+- Feature extraction from human motion data
+- Machine Learning models (e.g. traditional classifiers)
+- Deep Learning models (e.g. neural networks)
+- Model training, validation, and performance evaluation
 
-## Immigration Relevance (EB-2 NIW)
-This repository is provided as supporting evidence of:
-- Substantial merit and national importance of my work
-- My ability to advance the proposed endeavor
-- The benefit of waiving the job offer and labor certification requirement
+## Tools and Technologies
+- Python
+- Machine Learning libraries
+- Deep Learning frameworks
+- Image and motion data processing techniques
+
+## Results and Insights
+The models demonstrate the feasibility of predicting fall risk
+from human motion data, highlighting the potential for data-driven
+fall prevention and patient safety systems.
+
+## National Importance
+Fall prevention is a critical public health concern in the United States,
+particularly due to an aging population. Data-driven fall risk prediction
+can reduce injuries, lower healthcare costs, and improve patient outcomes,
+supporting national healthcare and safety priorities.
