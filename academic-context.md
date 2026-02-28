@@ -1,4 +1,4 @@
-academic-context.md
+
 # Academic Context
 
 This project was completed as part of my MSc in Data Science.
